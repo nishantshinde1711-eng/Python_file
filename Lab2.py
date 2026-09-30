@@ -43,8 +43,8 @@ confirmation_status = "Confirmed"
 
 print("----------- Railway Ticket -----------")
 print("Passenger Name :",passenger_name)
-print("Seat Number :",seat_number)
-print("Ticket Status :", confirmation_status)
+print("Seat Number    :",seat_number)
+print("Ticket Status  :", confirmation_status)
 print("--------------------------------------")
 
 
